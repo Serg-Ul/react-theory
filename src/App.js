@@ -17,11 +17,6 @@ class App extends Component {
                 brand: 'Lexus',
                 year: 2017,
                 color: 'blue',
-            },
-            {
-                brand: 'Mazda',
-                year: 2014,
-                color: 'green',
             }
         ],
         pageTitle: 'Cars:'
