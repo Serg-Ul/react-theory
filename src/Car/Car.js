@@ -37,6 +37,14 @@ const Car = (props) => (
             <small>
                 Distance: <strong>{Math.round(Math.random() * 100000)}</strong>
             </small>
+            <div style={{marginTop: '5px'}}>
+                <input type="text" onChange={props.onChangeBrand} value={props.brand}/>
+            </div>
+            <div style={{
+                marginTop: '5px'
+            }}>
+                <button onClick={props.onDeleteCar}>Delete</button>
+            </div>
         </div>
     </div>
 );
