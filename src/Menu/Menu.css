@@ -1,0 +1,9 @@
+.car {
+    width: 200px;
+    height: 200px;
+}
+
+a.active {
+    color: grey;
+    text-decoration: none;
+}

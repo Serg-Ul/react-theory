@@ -1,0 +1,28 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.color-red {
+    color: red;
+}
+
+.border-color-red {
+    border-color: red;
+}
+
+.bg-color-red {
+    background-color: red;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.bg-color-blue {
+    background-color: blue;
+}
+
+.border-color-green {
+    border-color: green;
+}
